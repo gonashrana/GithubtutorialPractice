@@ -1,7 +1,10 @@
 body {
     font-family: Arial, sans-serif;
 }
-
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    text-align: center;
+}
 p {
     background-color: pink;
 }
